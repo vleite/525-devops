@@ -1,6 +1,6 @@
-#REPOSITORIO PARA AUALA DE GIT
+# REPOSITORIO PARA AUALA DE GIT
 
-##Itens
+## Itens
 * Entendo
 * Manipulando
 * e Aprendendo sobre personangens da DC
